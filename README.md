@@ -10,6 +10,7 @@ If you need to contact me you can do so at : d33z0r@protonmail.com
 https://github.com/ClaymoreEthereumMiner/Claymore-11-7-No-Fee-Ethereum-Miner/releases/download/11.7/Claymore.s.Dual.Ethereum.Decred_Siacoin_Lbry_Pascal_Blake2s_Keccak.AMD.NVIDIA.GPU.Miner.v11.7.rar
 
 
+
 # FAQ
 How will I know this works? 
 Check .txt logs for "Devfee" or "devfee" or any "eth_submitLogin" where your address isn't show. If you do have any make a clean install of claymore and extract all files in there.
