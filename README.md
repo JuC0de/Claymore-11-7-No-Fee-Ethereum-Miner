@@ -24,19 +24,35 @@ Sure, ETH addr : 0x00bf9b211ea474f588f77a7b2b3f99ac5cb8e157
 
 -- incoming search terms --
 claymore 11.7
+
 claymore 11.7 download
+
 claymore miner 11.7
+
 claymore 11.7 no fee
+
 download claymore 11.7
+
 claymore 11.7 nofee
+
 claymore eth 11.7
+
 claymore miner 11.7 download
+
 claymore dual miner 11.7
+
 claymore download windows 10
+
 download claymore eth miner windows 10
+
 claymore ethereum miner
+
 claymore miner eth
+
 claymore ethereum miner download
+
 claymore nofee
+
 claymore nofee github
+
 claymore ethereum no fee
